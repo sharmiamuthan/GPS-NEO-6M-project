@@ -12,14 +12,21 @@ The ESP32 reads this information from the GPS module through UART communication,
 Components:
 
 ESP32
+
 NEO-6M GPS
+
 USB cable
 
 Output:
 
 Latitude
+
 Longitude
+
 Altitude
+
 Speed
+
 Satellite count
+
 Time
