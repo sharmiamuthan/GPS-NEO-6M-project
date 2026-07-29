@@ -18,7 +18,6 @@ NEO-6M GPS
 USB cable
 
 Output:
-
 Latitude
 
 Longitude
